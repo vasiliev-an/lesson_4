@@ -59,7 +59,7 @@ touch testfile
 # mkinitrd -f -v /boot/initramfs-$(uname -r).img $(uname -r)
 ```
 
-![network](https://github.com/ net /OTUS_HW23_bond_vlans/blob/master/network23.png)
+![network](https://github.com/vasiliev-an/lesson_4/blob/master/img/1.png)
 
 Перезагружаемся и проверяем, что изменения применились:
 
