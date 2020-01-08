@@ -61,11 +61,14 @@ touch testfile
 
 ![network](https://github.com/vasiliev-an/lesson_4/blob/master/img/1.png)
 
+
 Перезагружаемся и проверяем, что изменения применились:
 
 ```
 # vgs
 ```
+
+![network](https://github.com/vasiliev-an/lesson_4/blob/master/img/2.png)
 
 ### **Добавить модуль в initrd**
 
@@ -144,3 +147,5 @@ test
 ```
 В итоге при загрузке будет пауза на 10 секунд и видим пингвина в выводе
 терминала
+
+![network](https://github.com/vasiliev-an/lesson_4/blob/master/img/3.png)
